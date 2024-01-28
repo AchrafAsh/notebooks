@@ -1,0 +1,4 @@
+alias roll="./commands.sh"
+
+# Make the commands executable
+chmod +x ./commands.sh
